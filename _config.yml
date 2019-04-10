@@ -80,3 +80,5 @@ theme: Anisina
 deploy:
   type: git
   repo: git@github.com:wallacetju/myblog.git
+  branch: publish 
+  message:
