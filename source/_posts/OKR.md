@@ -1,7 +1,7 @@
 ---
-title: OKR
+title: OKR First Bite
 date: 2019-05-03 10:57:55
-tags:
+tags: OKR
 ---
 * Reference:
   * [How to set your personal orks and stick to them](https://medium.com/@jamsusmaximus/how-to-set-your-personal-okrs-and-stick-to-them-632acec44084)
