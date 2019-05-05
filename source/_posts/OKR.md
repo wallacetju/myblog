@@ -7,18 +7,14 @@ tags: OKR
   * [How to set your personal orks and stick to them](https://medium.com/@jamsusmaximus/how-to-set-your-personal-okrs-and-stick-to-them-632acec44084)
   * [The art of okr](http://eleganthack.com/the-art-of-the-okr/)
 
+* Common Mistakes:
+1. Too Many Per Quarter
+2. Set OKR for a week or a month: it would not be ambitious enough
+3. Set a metric driven objective: it's not inspirational
+4. Key results are tasks instead of results
+5. Don't set confidence level
+6. Don't track confidence level
+
 * What are some aspects that I would like to improve?
-  1. Career: (按照以终为始的观点应该如何去做)
-    * happier working environment.
-      * Better Work Relationship & Communication     
-    * Clearer Strategy & Goals
-    * Participate deeper & more improvement
-  2. Living More Mindfully:
-  3. Win-win Relationship:
-    * 希望建立一个共赢的关系，不占便宜，更不是退让妥协。
-  4. Become Healthier:
-    * 尿酸降到正常
-    * 膝盖可以打篮球
-    * 体重降到150
-  5. 加强与朋友的联系：
-  6. 生活的基础建设好：(保密)
+1. Mindful Living
+2.
