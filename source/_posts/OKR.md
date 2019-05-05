@@ -6,8 +6,9 @@ tags: OKR
 * Reference:
   * [How to set your personal orks and stick to them](https://medium.com/@jamsusmaximus/how-to-set-your-personal-okrs-and-stick-to-them-632acec44084)
   * [The art of okr](http://eleganthack.com/the-art-of-the-okr/)
+  * [Personal OKR](https://medium.com/@cwodtke/personal-okrs-three-years-later-7616e60574a4)
 
-* Common Mistakes:
+* [Common Mistakes](http://eleganthack.com/okr-mistakes-and-how-to-fix-them/):
 1. Too Many Per Quarter
 2. Set OKR for a week or a month: it would not be ambitious enough
 3. Set a metric driven objective: it's not inspirational
@@ -16,5 +17,13 @@ tags: OKR
 6. Don't track confidence level
 
 * What are some aspects that I would like to improve?
-1. Mindful Living
-2.
+  1. Better Mindful Living
+  2. Healthier:
+    * KR1: leg
+    * KR2: 75kg
+    * KR3: 尿酸正常
+  3. Happier Life:
+    * Happier Relationship
+    * Happier Work Life
+    * Make more Friends
+    * Happier Learning
