@@ -1,7 +1,7 @@
 ---
 title: why we write bugs?
 date: 2019-05-31 13:01:48
-tags:
+tags: 技术
 ---
 
 * 读卖桃者说，里面提到可以用Dash。
