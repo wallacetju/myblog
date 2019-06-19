@@ -1,5 +1,7 @@
 ---
-title: mindful
+title: 正念
 date: 2019-06-02 23:37:45
-tags:
+tags: mindful
 ---
+
+* 推荐序：太多的人生问题，是因为我们想逃离。
