@@ -3,8 +3,7 @@ title: 正念初识
 date: 2019-06-23 15:16:23
 tags: 正念
 ---
-![1C3DA746-B5DC-4EC5-90D2-63F118D560E6.jpeg](1C3DA746-B5DC-4EC5-90D2-63F118D560E6.jpeg)
-
+![cloud](cloud.jpeg)
 
    回想最初接触“正念”这个概念，还要追溯到09年刚到美国的时候。当时大学刚毕业，独自一人来到异国他乡。度过了最初的新鲜“蜜月期”之后，文化冲突，学业压力，情感的孤独，社交的压力都一并的涌上来，失眠焦虑成了常态。
 
@@ -12,6 +11,6 @@ tags: 正念
 
    那到底什么是正念呢?
 > Mindfulness is the psychological process of bringing one's attention to experiences occurring in the present moment,[1][2][3] which one can develop through the practice of meditation and through other training.    (摘自维基百科)
-      
+
    我在写这个之前，也没有足够清晰的概念，于是看了一下维基百科。“正念是将个人注意力专注到当下的心理过程，它可以通过冥想和其他训练来成长。”
    2017年初，我在波士顿剑桥冥想中心修习了10节课程，初步学习了冥想。最简单的方法就是“观察自己的呼吸”，通过观察呼吸，你会察觉到自己的脑海里飘荡的想法，会发现自己并没有生活在“此时此刻”，而是生活在“过去”或者“未来”。当你观察这些想法和情绪的时候，不要评判，温柔的“抱持”所有的东西，观察它们，你有可能发现你的信念和情绪用这种方式告诉你很多东西
