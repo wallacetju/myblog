@@ -1,6 +1,9 @@
 ---
 title: career
 date: 2019-07-19 14:20:45
+password: wallace
+abstract: Welcome to my blog, enter password to read.
+message: Welcome to my blog, enter password to read.
 tags:
 ---
 

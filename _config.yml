@@ -83,6 +83,10 @@ deploy:
   repo: git@github.com:wallacetju/wallacetju.github.io.git
   branch: master
 
+# Security
+##
+encrypt:
+    enable: true
 
 jsonContent:
     meta: false
