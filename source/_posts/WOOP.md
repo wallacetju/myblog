@@ -1,7 +1,7 @@
 ---
-title: 创造性思维
+title: WOOP
 date: 2019-07-20 14:34:55
-tags:
+tags: 动力, psychology
 ---
 
 ## 两种张力的结构：

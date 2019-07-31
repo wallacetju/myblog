@@ -1,5 +1,5 @@
 ---
-title: 动力
+title: 动力-武志红
 date: 2019-06-01 14:53:37
 tags: psychology
 ---

@@ -1,7 +1,7 @@
 ---
-title: 里程碑思维
+title: 里程碑
 date: 2019-07-02 15:16:21
-tags: management
+tags: strategy
 ---
 
 ### 参考文章：
