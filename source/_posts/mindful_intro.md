@@ -1,5 +1,5 @@
 ---
-title: 正念初识(unfinish)
+title: 正念初识
 date: 2019-06-23 15:16:23
 tags: 正念
 ---
